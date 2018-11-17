@@ -2,4 +2,4 @@
 
 ### Repository for KSchool's master in Data Science
 
-> This repo won't contain any code just yet.
+> **Note:** This repo won't contain any code just yet.
